@@ -23,3 +23,4 @@ pip install greenlet # Required for both
 pip install eventlet # For eventlet workers
 pip install gevent # For gevent workers
 
+pip install pyzmq
